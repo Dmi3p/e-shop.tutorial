@@ -1,0 +1,2 @@
+1) can't send not 404 response;
+2) logWriter doesn't work
