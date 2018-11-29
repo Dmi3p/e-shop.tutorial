@@ -7,7 +7,7 @@ define("CORE", ROOT . '/vendor/ishop/core');
 define("LIBS", ROOT . '/vendor/ishop/core/libs');
 define("CACHE", ROOT . '/tmp/cache');
 define("CONF", ROOT . '/config');
-define("LAYUOUT", 'default');
+define("LAYOUT", 'default');
 
 // http://ishop2/public/index.php
 $app_path = "http://{$_SERVER['HTTP_HOST']}{$_SERVER['PHP_SELF']}";

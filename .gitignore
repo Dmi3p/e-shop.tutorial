@@ -1,3 +1,7 @@
 *.log
+*.lock
 vendor/composer
+vendor/gabordemooij
 nbproject/
+tmp/
+
